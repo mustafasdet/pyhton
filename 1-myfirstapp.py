@@ -1,0 +1,12 @@
+s = "hello world"
+print(s)
+print(len(s))
+print(s[len(s)-1])
+print(s[10])
+print(s[-2])
+print(type(s))
+print(type(100))
+print(type(True))
+print(type(None))
+print(type(7/3))
+print(type(10/2))
